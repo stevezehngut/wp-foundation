@@ -16,6 +16,8 @@ This plugin adds the Foundation framework to your WordPress site.
 1. Upload the `wp-foundation` folder to your plugins directory (e.g. `/wp-content/plugins/`)
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
+## Changelog
+
 ### 0.1
 
 * Alpha release
